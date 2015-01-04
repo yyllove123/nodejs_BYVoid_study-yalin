@@ -1,0 +1,432 @@
+[Sun Jan 04 2015 23:05:33 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:87:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:05:33 GMT+0800 (CST)] /favicon.icoNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:87:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:05:47 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:87:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:05:50 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:87:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:05:50 GMT+0800 (CST)] /img/glyphicons-halflings-white.pngNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:87:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:05:54 GMT+0800 (CST)] /users/stylesheets/bootstrap-responsive.cssNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:87:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:05:54 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:87:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:28:57 GMT+0800 (CST)] /users/stylesheets/bootstrap-responsive.cssNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:89:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:28:57 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:89:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:28:57 GMT+0800 (CST)] /img/glyphicons-halflings-white.pngNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:89:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:29:03 GMT+0800 (CST)] /favicon.icoNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:89:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:29:03 GMT+0800 (CST)] /apple-touch-icon-precomposed.pngNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:89:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:29:03 GMT+0800 (CST)] /apple-touch-icon.pngNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:89:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:32:42 GMT+0800 (CST)] /users/stylesheets/bootstrap-responsive.cssNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:32:42 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:32:42 GMT+0800 (CST)] /img/glyphicons-halflings-white.pngNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:33:19 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:33:21 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:33:22 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:33:25 GMT+0800 (CST)] /javascripts/jquery.jsNot Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9)
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at proto.handle.c (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16)
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:49:44 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:49:46 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:49:46 GMT+0800 (CST)] /users/stylesheets/bootstrap-responsive.css Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:49:47 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:49:52 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:49:54 GMT+0800 (CST)] /login err is not defined
+ReferenceError: err is not defined
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:71:62
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at app.use.error (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:64:5)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+[Sun Jan 04 2015 23:50:08 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:50:09 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:50:09 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:50:14 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Sun Jan 04 2015 23:50:16 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Mon Jan 05 2015 00:00:57 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Mon Jan 05 2015 00:01:00 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Mon Jan 05 2015 00:01:04 GMT+0800 (CST)] /login err is not defined
+ReferenceError: err is not defined
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:71:62
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at app.use.error (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:64:5)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+[Mon Jan 05 2015 00:06:48 GMT+0800 (CST)] /javascripts/jquery.js Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+[Mon Jan 05 2015 00:06:48 GMT+0800 (CST)] /favicon.ico Not Found
+Error: Not Found
+    at app.use.meta (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/app.js:91:15)
+    at Layer.handle [as handle_request] (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/layer.js:82:5)
+    at trim_prefix (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:270:13)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:237:9
+    at Function.proto.process_params (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:312:12)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:228:12
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)
+    at next (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:189:10)
+    at /Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:191:16
+    at Function.match_layer (/Users/Yalin/workSpace/publicLib/nodejs_BYVoid_study-yalin/microblog/node_modules/express/lib/router/index.js:295:3)

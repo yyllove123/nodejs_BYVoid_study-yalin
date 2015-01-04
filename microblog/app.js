@@ -1,7 +1,13 @@
+// 日志功能添加
+var fs = require('fs');
+var accessLogfile = fs.createWriteStream('access.log',{flags : 'a'});
+var errorLogfile = fs.createWriteStream('error.log', {flags : 'a'});
+
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
-var logger = require('morgan');
+// var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var partials = require('express-partials');
@@ -17,6 +23,8 @@ var logout = require('./routes/logout');
 var post = require('./routes/post');
 var reg = require('./routes/reg');
 
+var util = require('util');
+
 var app = express();
 
 // view engine setup
@@ -25,13 +33,14 @@ app.set('view engine', 'ejs');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
-app.use(logger('dev'));
+// app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(partials());
 app.use(flash());
+// app.use(express.logger({stream : accessLogfile}));
 
 app.use(session( {
     secret: settings.cookieSecret,
@@ -42,6 +51,7 @@ app.use(session( {
     saveUninitialized: true
 }));
 
+// 访问过滤
 app.use(function(req, res, next) {
     var user = req.session.user;
     var err = req.flash("error");
@@ -51,6 +61,21 @@ app.use(function(req, res, next) {
     res.locals.error = err.length > 0 ? err : null;
     res.locals.success = success.length > 0 ? success : null;
 
+    next();
+});
+
+// 访问日志
+app.use(function(req, res, next) {
+    var error = res.locals.error;
+    if (error) {
+        var meta = '[' + new Date() + '] ' + req.url + ' ' + err.message + '\n';
+        errorLogfile.write(meta + err.stack + '\n');
+    }
+    else {
+        var message = req.url
+        var meta = '[' + new Date() + '] ' + req.url + ' ' + util.inspect(req.body) + ' ' + util.inspect(req.params);
+        accessLogfile.write(meta + '\n');
+    }
     next();
 });
 
@@ -68,10 +93,13 @@ app.use(function(req, res, next) {
     next(err);
 });
 
-
-
-
 // error handlers
+// 错误日志
+app.use(function(err, req, res, next) {
+    var meta = '[' + new Date() + '] ' + req.url + ' ' + err.message + '\n';
+    errorLogfile.write(meta + err.stack + '\n');
+    next();
+});
 
 // development error handler
 // will print stacktrace
