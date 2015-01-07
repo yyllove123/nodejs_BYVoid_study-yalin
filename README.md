@@ -78,9 +78,53 @@ nodejs开发指南 学习
 
 ###模块建立与export使用
 
+一个模块就是一个js文件，这个js文件中使用export模块公开接口对外公开了一下方法或属性，可以通过require方法调用到对外公开的方法或属性。
+
+	var name;	exports.setName = function(thyName) { 		name = thyName;	};	exports.sayHello = function() { 		console.log('Hello ' + name);	};
+上面对外公开了setName和sayHello函数。
+
 ###调试工具
 
-###EJS
+使用node-inspector工具调试Node.js
+
+	npm install -g node-inspector
+	
+然后在运行时使用以下命令运行：
+
+	node-debug app.js
+将会自动弹出调试工具。
+
+### EJS
+
+ejs是我这种对html只了解一下皮毛的人比较适合。
+
+[EJS for GitHub](https://github.com/tj/ejs)
+
+安装：
+
+	npm install ejs
+三个语法：
+
+* <% code %>
+* <%= code %>
+* <%- code %>
+
+嵌套模板
+
+	inculde 指令
+	<ul>
+  		<% users.forEach(function(user){ %>
+    		<% include user/show %>
+   		<% }) %>
+	</ul>
+user/show 是用户的一个html模板
+
+如果你不想使用<%作为语法开始，%>作为语法结束，可以自定义：
+
+	var ejs = require('ejs');  
+	ejs.open = '{{';  
+	ejs.close = '}}';
+这样开始的语法就变成了 {{ code }}、{{= code }}、{{- code }}
 
 ###日志功能
 
