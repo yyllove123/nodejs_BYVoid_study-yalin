@@ -176,10 +176,19 @@ user/show 是用户的一个html模板
 * 结束一个进程
 
 		process.kill(worker.pid);
+		
 
 ###宕机自动重启
 
+* 监听一个工作进程结束,并重启
+
+		cluster.on('death', function (worker) {		// 当一个工作进程结束时,重启工作进程 			delete workers[worker.pid];		    worker = cluster.fork();		    workers[worker.pid] = worker;		  });
+* 监听程序主进程结束，结束所有工作进程
+		process.on('SIGTERM', function () {		for (var pid in workers) {		￼   process.kill(pid);		  }		process.exit(0); });
+
+
+
 ###同一机器部署多套
 
-
+Nginx使用
 
