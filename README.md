@@ -96,7 +96,7 @@ nodejs开发指南 学习
 
 ### EJS
 
-ejs是我这种对html只了解一下皮毛的人比较适合。
+ejs是我这种对html只了解一些皮毛的人比较适合。
 
 [EJS for GitHub](https://github.com/tj/ejs)
 
@@ -128,7 +128,54 @@ user/show 是用户的一个html模板
 
 ###日志功能
 
+在新版本的express中已经把日志功能去掉了，需要用中间件的方式来实现日志功能。
+
+	// 日志功能添加
+	var fs = require('fs');
+	var accessLogfile = fs.createWriteStream('access.log',{flags : 'a'});
+	var errorLogfile = fs.createWriteStream('error.log', {flags : 'a'});
+	
+	// 访问日志
+	app.use(function(req, res, next) {
+	    var error = res.locals.error;
+	    if (error) {
+	        var meta = '[' + new Date() + '] ' + req.url + ' ' + err.message + '\n';
+	        errorLogfile.write(meta + err.stack + '\n');
+	    }
+	    else {
+	        var message = req.url
+	        var meta = '[' + new Date() + '] ' + req.url + ' ' + util.inspect(req.body) + ' ' + util.inspect(req.params);
+	        accessLogfile.write(meta + '\n');
+	    }
+	    next();
+	});
+	
+	// 错误日志
+	app.use(function(err, req, res, next) {
+	    var meta = '[' + new Date() + '] ' + req.url + ' ' + err.message + '\n';
+	    errorLogfile.write(meta + err.stack + '\n');
+	    next();
+	});
+
 ###多核使用
+
+从0.6版本开始，Node.js提供了一个核心模块：cluster。cluster的功能是生成与当前进程相同的子进程，并允许父进程和子进程之间共享端口。
+
+类似的核心模块：child_process，单cluster允许跨进程端口复用。
+
+	var cluster = require('cluster');
+
+* 判断是否为主进程
+
+		if (cluster.isMaster)
+	
+* 开启一个新子进程
+
+		var worker = cluster.fork();
+
+* 结束一个进程
+
+		process.kill(worker.pid);
 
 ###宕机自动重启
 
